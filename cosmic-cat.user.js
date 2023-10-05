@@ -4027,7 +4027,7 @@ ${data.likes}<img class="comments-rating-thumbs-up" style="vertical-align: botto
         },
         TransSatanJumpscare: {
             Main: () => {
-                return `<link rel="stylesheet" href="//thistlecafe.github.io/cosmic-cat/666-transrights.css"/>
+                return `<link rel="stylesheet" href="//minguinmyoui.github.io/cosmic-cat/666-transrights.css"/>
 <iframe src="https://youtube.com/embed/kVpPlWlHMrA?autoplay=1" width="1" height="1" allow="autoplay"></iframe>
 <div id="s"><div id="e"></div></div>`;
             }
@@ -5298,7 +5298,7 @@ ${data.likes}<img class="comments-rating-thumbs-up" style="vertical-align: botto
     vorapisPlayer: (innertubevideoid, mission) => {
         // Install player script.
         var _aaa = document.createElement("script");
-        _aaa.setAttribute("src", "//thistlecafe.github.io/cosmic-cat/html5player.js");
+        _aaa.setAttribute("src", "//minguinmyoui.github.io/cosmic-cat/html5player.js");
         _aaa.onload = function () {
             (playerwasloaded = !0),
                 datawasloaded && (invokePlayer(), (playerwasinvoked = !0));
@@ -7235,7 +7235,7 @@ document.cosmicCat.Utils.waitForElm("ytd-app").then(async (e) => {
         let style = {
             3: ["//s.ytimg.com/yts/cssbin/www-channels3-vflIpog6R.css", "//s.ytimg.com/yts/cssbin/www-watch-inlineedit-vflg-l3kd.css"],
             2: ["//s.ytimg.com/yt/cssbin/www-refresh-vflzVUPsm.css", "//s.ytimg.com/yt/cssbin/www-the-rest-vflNb6rAI.css", "//s.ytimg.com/yt/cssbin/www-channel_new-vflrWkVe_.css"],
-            1: ["//thistlecafe.github.io/cosmic-cat/www-channel.css", "//thistlecafe.github.io/cosmic-cat/base_all-vfl42963.css"]
+            1: ["//minguinmyoui.github.io/cosmic-cat/www-channel.css", "//minguinmyoui.github.io/cosmic-cat/base_all-vfl42963.css"]
         };
         let boop = style[document.cosmicCat.Storage.get("channel_mode").value];
         for (let i = 0; i < boop.length; i++) {
