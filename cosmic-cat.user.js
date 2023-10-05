@@ -2,7 +2,11 @@
 // @name         Cosmic Cat
 // @namespace    https://www.youtube.com/*
 <<<<<<< HEAD
+<<<<<<< HEAD
 // @version      0.6.59
+=======
+// @version      0.6.57
+>>>>>>> parent of 90ac9d8 (0.6.58)
 =======
 // @version      0.6.57
 >>>>>>> parent of 90ac9d8 (0.6.58)
