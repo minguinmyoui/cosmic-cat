@@ -1,7 +1,11 @@
 // ==UserScript==
 // @name         Cosmic Cat
 // @namespace    https://www.youtube.com/*
+<<<<<<< HEAD
 // @version      0.6.59
+=======
+// @version      0.6.57
+>>>>>>> parent of 90ac9d8 (0.6.58)
 // @description  Broadcast Yourself
 // @author       Thistle Café, Cosmic Cat Maintainers
 // @license      The Unlicense
@@ -539,11 +543,11 @@ document.cosmicCat = {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    "X-Goog-AuthUser": "1",
+                    "X-Goog-AuthUser": "0",
                     "X-Goog-Visitor-Id": "",
                     "X-Youtube-Client-Version": "17.33",
                     "X-Youtube-Bootstrap-Logged-In": "true",
-                    "X-Youtube-Client-Name": "1",
+                    "X-Youtube-Client-Name": "ANDROID",
                     "X-Origin": "https://www.youtube.com",
                     Authorization
                 },
