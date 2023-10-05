@@ -11,12 +11,12 @@
 ## Note
 This project is a work-in-progress with varying stability, therefore not recommended for everyday use.<br/><br/>
 
-You can access Cosmic Cat settings through the masthead or directly from this link (`youtube.com/cosmic_cat`):<br/>![image](https://github.com/thistlecafe/cosmic-cat/assets/79811506/3cc61d60-b9db-44a6-b8c5-eb858f83db08)
+You can access Cosmic Cat settings through the masthead or directly from this link (`youtube.com/cosmic_cat`):<br/>![image](https://github.com/minguinmyoui/cosmic-cat/assets/79811506/3cc61d60-b9db-44a6-b8c5-eb858f83db08)
 
 
 ## Installation
 - Get **Tampermonkey** for your browser: https://www.tampermonkey.net<br/>
-- Click here to open up the install prompt (requires **Tampermonkey**): [cosmic-cat.user.js](https://github.com/ciulinuwu/cosmic-cat/raw/main/cosmic-cat.user.js)
+- Click here to open up the install prompt (requires **Tampermonkey**): [cosmic-cat.user.js](https://github.com/minguinmyoui/cosmic-cat/raw/main/cosmic-cat.user.js)
 
 ## Contributing
 Cosmic Cat is early in development. If you encounter any problems while using Cosmic Cat, [please make an issue](https://github.com/thistlecafe/cosmic-cat/issues/new?template=bug-issue.yml).<br/></br>
